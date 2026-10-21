@@ -1,0 +1,21 @@
+[REGULATOR: South Africa SAHPRA]
+[SOURCE: South African Health Products Regulatory Authority GMP guidelines, aligned to PIC/S GMP Guide; Medicines and Related Substances Act licensing framework]
+[VERIFY AT: https://www.sahpra.org.za/]
+
+TOPIC: Legal framework
+SAHPRA regulates manufacturing, importation, and distribution of medicines in South Africa under the Medicines and Related Substances Act. SAHPRA's GMP requirements are aligned with the PIC/S GMP Guide (South Africa is a PIC/S participating authority), so the same Part I / Part II / Annex structure used by TGA and other PIC/S members is the relevant reference framework for SAHPRA inspections.
+
+TOPIC: Licensing and inspection
+Manufacturing sites require a licence from SAHPRA, supported by a site master file and evidence of GMP compliance. Inspections assess the quality management system, premises and equipment, documentation and data integrity practices, production and in-process controls, and quality control laboratory operations, broadly consistent with PIC/S inspection practice.
+
+TOPIC: First-time site inspection readiness
+For a first SAHPRA site inspection, firms are typically expected to have a complete, current site master file; validated status for critical equipment, utilities (e.g., water systems, HVAC) and key processes; a functioning self-inspection (internal audit) programme with documented follow-up; and personnel trained on and able to demonstrate adherence to core SOPs, not just awareness of their existence.
+
+TOPIC: Change control expectations
+As with other PIC/S-aligned authorities, SAHPRA inspectors look for evidence that changes to processes, equipment, methods, or suppliers go through a documented change control process with risk assessment, defined approval steps, and verification that the change achieved its intended effect before being considered closed.
+
+TOPIC: Common focus areas
+Documentation practices and data integrity (contemporaneous recording, control of blank/uncontrolled forms), deviation and CAPA effectiveness, supplier and raw material qualification, and whether the quality unit has genuine authority to stop or hold product when needed.
+
+TOPIC: Practical preparation
+Given SAHPRA's PIC/S alignment, mapping existing quality system documentation to the PIC/S GMP Guide's Part I/Part II/Annex structure (the same approach useful for TGA preparation) helps identify gaps before an inspection, along with ensuring English-language documentation is complete and readily retrievable, since inspections are typically conducted in English.
