@@ -1,0 +1,21 @@
+[REGULATOR: Brazil ANVISA]
+[SOURCE: ANVISA RDC (Resolução da Diretoria Colegiada) GMP resolutions, notably RDC 658/2022 (GMP for medicines); ANVISA certification inspection framework]
+[VERIFY AT: https://www.gov.br/anvisa/pt-br]
+
+TOPIC: Legal framework
+ANVISA (Agência Nacional de Vigilância Sanitária) regulates pharmaceutical manufacturing in Brazil through a series of RDC resolutions. RDC 658/2022 is the main current GMP resolution for medicine manufacturers, replacing and consolidating earlier GMP resolutions, and is structured broadly in line with PIC/S/WHO GMP principles while reflecting Brazil-specific regulatory requirements.
+
+TOPIC: GMP certification process
+Both domestic and foreign manufacturers supplying the Brazilian market generally need ANVISA GMP certification for the relevant manufacturing site. This can involve an on-site ANVISA inspection, or, for some countries/situations, recognition of inspections by other authorities under applicable cooperation arrangements, though direct ANVISA inspection remains common for many foreign sites.
+
+TOPIC: Language and documentation
+ANVISA inspections are typically conducted with Portuguese as the working language; firms preparing for inspection should ensure availability of a qualified technical interpreter if staff are not fluent in Portuguese, and be prepared for key documentation (or summaries) to be discussed in Portuguese, even where master documents are maintained in English.
+
+TOPIC: Common compliance gaps
+Gaps frequently identified in ANVISA inspections include incomplete adaptation of global quality systems to Brazil-specific RDC requirements (treating Brazil as identical to other markets without reviewing local resolution text), insufficient documentation of environmental monitoring and utility qualification, and gaps in traceability documentation linking raw materials through to finished batch distribution.
+
+TOPIC: Inspection focus areas
+Quality management system structure and effectiveness, production and process controls, quality control laboratory practices, validation status of equipment and processes, documentation and record-keeping practices, and complaint/recall handling, assessed against RDC 658/2022 and related resolutions.
+
+TOPIC: Preparing for an ANVISA inspection
+Firms should map their quality system against the current RDC GMP resolution text (not assume full equivalence with FDA, EU, or PIC/S GMP without verification), confirm interpreter arrangements are in place, ensure local regulatory affairs contacts are available during the inspection, and have Portuguese-capable staff or support for technical discussions.
