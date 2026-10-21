@@ -1,0 +1,21 @@
+[REGULATOR: WHO Prequalification]
+[SOURCE: WHO Technical Report Series GMP guidelines; WHO Prequalification of Medical Products (PQ) programme inspection framework]
+[VERIFY AT: https://extranet.who.int/pqweb/]
+
+TOPIC: Purpose of WHO Prequalification
+WHO Prequalification (PQ) assesses the quality, safety, and efficacy of priority medical products (medicines, vaccines, diagnostics) intended mainly for procurement by UN agencies and other international buyers, particularly for use in resource-limited settings. Prequalification is not a replacement for a national marketing authorisation; it is an additional assessment that enables global procurement.
+
+TOPIC: GMP basis
+WHO GMP guidelines, published through the WHO Technical Report Series, form the GMP basis for prequalification inspections. These guidelines share substantial common ground with PIC/S and ICH-based GMP frameworks but are written with particular attention to manufacturers supplying multiple markets with varying regulatory maturity.
+
+TOPIC: What PQ expects beyond local GMP
+Beyond local/national GMP approval, WHO PQ inspections place strong emphasis on robust supply chain traceability (ability to trace from raw material to finished batch and onward distribution), consistency of quality across all markets supplied by the same site (not a reduced standard for certain markets), and transparent, complete deviation and complaint handling with evidence that trends are analysed, not just individual events closed.
+
+TOPIC: Inspection process
+A WHO PQ inspection typically examines the full quality management system, premises and equipment, production and process controls, quality control laboratory operations, validation documentation, and distribution/traceability records, similar in scope to other stringent GMP inspections but with particular scrutiny of how the site manages supply to multiple, varied markets.
+
+TOPIC: Common findings
+Common findings include inconsistent documentation practices between product lines supplied to different markets, gaps in stability data supporting shelf-life claims for products distributed under varying climatic conditions, and insufficiently documented investigation of out-of-specification or atypical results across the full batch history, not just the specific batch under question.
+
+TOPIC: Preparing for a WHO PQ inspection
+Firms should ensure traceability documentation is complete and can demonstrate end-to-end supply chain visibility, confirm that quality standards applied are consistent across all markets served by the site, and have stability and validation data organised and readily presentable for the specific products under prequalification review.
