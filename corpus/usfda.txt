@@ -1,0 +1,24 @@
+[REGULATOR: US FDA]
+[SOURCE: 21 CFR Parts 210/211 (cGMP for finished pharmaceuticals); FDA Data Integrity and Compliance with Drug CGMP guidance; FDA Investigations Operations Manual]
+[VERIFY AT: https://www.fda.gov/drugs/pharmaceutical-quality-resources/current-good-manufacturing-practice-cgmp-regulations]
+
+TOPIC: Legal framework
+US drug manufacturers are required to comply with Current Good Manufacturing Practice (cGMP) as set out in 21 CFR Parts 210 and 211. These rules cover organization and personnel, buildings and facilities, equipment, control of components, production and process controls, packaging and labeling, holding and distribution, laboratory controls, and records and reports. FDA investigators inspect against these requirements during pre-approval inspections (before a new product is approved) and routine GMP surveillance inspections (ongoing, risk-based).
+
+TOPIC: Inspection types
+A Pre-Approval Inspection (PAI) checks that a facility can reliably manufacture a product as described in a pending application. A routine Surveillance Inspection checks ongoing GMP compliance at an already-approved facility, typically on a risk-based schedule. A For-Cause Inspection follows a specific trigger such as a complaint, a recall, or information suggesting non-compliance.
+
+TOPIC: Data integrity expectations
+FDA's data integrity guidance expects that data be Attributable, Legible, Contemporaneous, Original, and Accurate (often summarized as ALCOA, sometimes extended to ALCOA+ with Complete, Consistent, Enduring, Available). Common data integrity findings include: shared logins on computerized systems, audit trails that are disabled or not reviewed, backdated or undated entries, unexplained deletions or overwrites of electronic data, "testing into compliance" (repeating a failing test until it passes without documented justification), and incomplete or missing raw data to support reported results.
+
+TOPIC: Form 483 and inspection outcomes
+At the end of an inspection, if an investigator observes conditions that may violate cGMP, they issue a Form 483 listing those observations. The firm is expected to respond, typically within 15 business days, with a written corrective action plan. FDA then classifies the inspection as No Action Indicated (NAI), Voluntary Action Indicated (VAI), or Official Action Indicated (OAI); OAI can lead to a Warning Letter or further regulatory action.
+
+TOPIC: CAPA expectations
+A credible CAPA (Corrective and Preventive Action) response to an observation is expected to include: a root cause analysis (not just a description of the symptom), an assessment of the scope of the problem (is it isolated or systemic, does it affect other products/batches), the specific corrective action taken, the preventive action to stop recurrence, a timeline for completion, and a way to verify the action was effective (not just implemented).
+
+TOPIC: Batch record readiness
+Before an inspection, firms are expected to have readily retrievable, complete, and contemporaneously executed batch production and control records, with all entries made at the time the activity was performed, any corrections made with a single line through the original entry (not obscured), initialed, dated, and reasoned where required by procedure, and no blank fields left unexplained.
+
+TOPIC: Common areas FDA investigators focus on
+Laboratory controls and data integrity (including chromatography audit trails), cleaning validation, process validation and continued process verification, deviation and CAPA systems (including whether CAPAs are actually effective, not just closed), change control, and supplier/vendor qualification.
