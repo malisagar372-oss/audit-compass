@@ -5,9 +5,10 @@ Architecture:
   - Retrieval: local embedding model (sentence-transformers, free, runs on
     the server, no API key) finds the most relevant corpus chunks for a
     question, scoped to the selected regulator.
-  - Generation: a free-tier hosted LLM (via Hugging Face Inference API)
-    answers using ONLY the retrieved chunks as grounding, with instructions
-    to say "not covered in my reference material" rather than guess.
+  - Generation: a free-tier hosted LLM (via Groq's API, which offers a
+    genuinely free, no-credit-card tier for open models) answers using
+    ONLY the retrieved chunks as grounding, with instructions to say
+    "not covered in my reference material" rather than guess.
   - Interface: Streamlit, deployed on Streamlit Community Cloud (free,
     no payment method required). Visitors need NO account and NO sign-in
     to use the deployed app.
@@ -27,16 +28,17 @@ import os
 
 import numpy as np
 import streamlit as st
-from huggingface_hub import InferenceClient
+from groq import Groq
 from sentence_transformers import SentenceTransformer
 
 from build_index import REGULATOR_FILES, CORPUS_DIR, parse_chunks
 
 INDEX_PATH = os.path.join(os.path.dirname(__file__), "index.json")
 
-# Free, open model served via Hugging Face's Inference API.
-# No cost to visitors; the app owner's free HF account funds inference.
-GENERATION_MODEL = "meta-llama/Llama-3.1-8B-Instruct"
+# Free, open model served via Groq's API (genuinely free tier, no credit
+# card required). No cost to visitors; the app owner's free Groq account
+# funds inference.
+GENERATION_MODEL = "llama-3.1-8b-instant"
 
 REGULATORS = [
     ("US FDA", "usfda"),
@@ -93,12 +95,12 @@ def load_chunks():
 
 
 @st.cache_resource
-def load_hf_client():
-    # HF_TOKEN is read from Streamlit secrets (Settings → Secrets in the
-    # deployed app) or, for local runs, an environment variable. Visitors
-    # never see or need this — it belongs to the app owner only.
-    token = st.secrets.get("HF_TOKEN", os.environ.get("HF_TOKEN"))
-    return InferenceClient(token=token)
+def load_groq_client():
+    # GROQ_API_KEY is read from Streamlit secrets (Settings → Secrets in
+    # the deployed app) or, for local runs, an environment variable.
+    # Visitors never see or need this — it belongs to the app owner only.
+    api_key = st.secrets.get("GROQ_API_KEY", os.environ.get("GROQ_API_KEY"))
+    return Groq(api_key=api_key)
 
 
 def retrieve(question, regulator_id, chunks, embed_model, k=TOP_K):
@@ -138,7 +140,7 @@ ANSWER:"""
 def answer_question(question, regulator_label):
     chunks = load_chunks()
     embed_model = load_embed_model()
-    hf_client = load_hf_client()
+    groq_client = load_groq_client()
     regulator_id = REGULATOR_BY_LABEL[regulator_label]
 
     retrieved = retrieve(question, regulator_id, chunks, embed_model)
@@ -148,7 +150,7 @@ def answer_question(question, regulator_label):
     prompt = build_prompt(question, regulator_label, retrieved)
 
     try:
-        completion = hf_client.chat_completion(
+        completion = groq_client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
             model=GENERATION_MODEL,
             max_tokens=400,
