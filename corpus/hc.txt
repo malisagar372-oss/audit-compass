@@ -1,0 +1,21 @@
+[REGULATOR: Health Canada]
+[SOURCE: Health Canada GUI-0001 (Good manufacturing practices guide for drug products); Food and Drug Regulations (Canada); establishment licensing framework]
+[VERIFY AT: https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices.html]
+
+TOPIC: Legal framework
+Health Canada requires drug manufacturers, packagers/labellers, testers, importers, distributors, and wholesalers to hold a Drug Establishment Licence (DEL) and to comply with GMP requirements set out under Part C, Division 2 of the Food and Drug Regulations, interpreted in detail through the GUI-0001 guidance document.
+
+TOPIC: GUI-0001 structure
+GUI-0001 organises expectations by regulatory interpretation of each Division 2 requirement, covering premises, equipment, personnel, sanitation, raw material testing, manufacturing control, quality control, packaging/labelling, finished product testing, records, samples, and stability testing, with explanatory guidance on how Health Canada inspectors interpret each requirement in practice.
+
+TOPIC: Risk classification of observations
+Health Canada classifies inspection observations by risk: Risk 1 (critical, indicating a practice likely to produce a significant health risk), Risk 2 (indicating a practice that may produce a product not meeting its intended specifications or quality, or a significant gap in the quality system), and Risk 3 (indicating a departure from GMP that is unlikely to produce a significant quality or health risk on its own, but needs correction). The combination and risk level of observations factors into licensing decisions and follow-up compliance actions.
+
+TOPIC: Establishment licence inspections
+Inspections may occur as part of initial DEL issuance, periodic re-inspection (on a risk-based cycle), or for-cause inspection following a complaint, recall, or other compliance signal. Firms are expected to demonstrate an operating quality system, not simply present documentation, since inspectors typically combine document review with direct observation of operations and staff interviews.
+
+TOPIC: Common focus areas
+Quality system documentation and change control, validation status of equipment, processes and cleaning procedures, data integrity and record-keeping practices consistent with ALCOA-type principles, and an effective self-inspection/internal audit program with evidence that identified issues are tracked to resolution.
+
+TOPIC: Preparing for a Health Canada inspection
+Firms should have GUI-0001 interpretive guidance cross-referenced against their own SOPs to confirm each regulatory expectation is addressed, ensure staff can explain and demonstrate (not just describe) their procedures, and have documentation organised so that records supporting recent batches and any recent changes or deviations are quickly retrievable during the inspection.
