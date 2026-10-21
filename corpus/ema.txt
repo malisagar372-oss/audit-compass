@@ -1,0 +1,21 @@
+[REGULATOR: EU GMP / EMA]
+[SOURCE: EudraLex Volume 4 (EU GMP Guidelines); Directive 2001/83/EC; national competent authority inspection frameworks]
+[VERIFY AT: https://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-4_en]
+
+TOPIC: Legal framework
+EU GMP requirements are set out in EudraLex Volume 4, which includes Part I (basic requirements for medicinal products), Part II (basic requirements for active substances used as starting materials), Part III (GMP-related documents such as the Site Master File template and the Quality Risk Management guideline ICH Q9), and a series of Annexes for specific situations (Annex 1 sterile manufacture, Annex 11 computerised systems, Annex 13 investigational medicinal products, Annex 15 qualification and validation, Annex 16 QP certification and batch release).
+
+TOPIC: Role of the Qualified Person
+A Qualified Person (QP) is legally responsible for certifying that each batch of medicinal product has been manufactured and tested in accordance with EU GMP and the marketing authorisation before it is released to the market. During an inspection, authorities often examine how the QP's certification decision is supported by documented evidence: batch records, deviation closure, change control status, and analytical results.
+
+TOPIC: Inspection bodies
+Inspections are carried out by the national competent authority of the EU/EEA member state where the site is located (for example, a national medicines agency), not directly by EMA itself; EMA coordinates and can request inspections in centralised-procedure contexts. Mutual recognition agreements allow some non-EU inspection outcomes to be accepted.
+
+TOPIC: Deficiency classification
+EU GMP inspections classify findings as Critical, Major, or Minor. A Critical deficiency indicates a practice that has produced, or leads to a significant risk of producing, a product harmful to the patient, or involves fraud/misrepresentation/falsification. A Major deficiency is a significant departure from GMP that could produce a product that does not meet its marketing authorisation, or indicates a significant failure of the quality system. A Minor deficiency does not fall into the above categories but indicates a departure from good practice.
+
+TOPIC: Data integrity expectations
+EU guidance (including the 2018 MHRA 'GXP' Data Integrity guidance, widely referenced across EU inspectorates) expects data governance that is proportionate to risk, with particular attention to audit trail review, control of blank forms, and genuine (not superficial) investigation of data anomalies as part of deviation handling.
+
+TOPIC: Preparing for an EU GMP inspection
+Firms are expected to maintain a current Site Master File, demonstrate that the Pharmaceutical Quality System (per ICH Q10 principles) is operating effectively (management review, CAPA effectiveness, change control), have validation documentation current for critical systems and processes, and be able to show the QP's basis for batch certification decisions with supporting records readily available.
