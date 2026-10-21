@@ -1,0 +1,21 @@
+[REGULATOR: PIC/S (general)]
+[SOURCE: PIC/S GMP Guide (PE 009), maintained by the Pharmaceutical Inspection Co-operation Scheme]
+[VERIFY AT: https://picscheme.org/]
+
+TOPIC: What PIC/S is
+The Pharmaceutical Inspection Co-operation Scheme (PIC/S) is a cooperative arrangement between many national regulatory authorities (including TGA, SAHPRA, MHRA, and numerous others) that work to harmonise GMP standards and inspection practice. PIC/S itself does not conduct inspections or issue certificates; member authorities each inspect under their own legal powers, using the shared PIC/S GMP Guide as their common technical reference.
+
+TOPIC: PIC/S GMP Guide structure
+The Guide (document PE 009) is structured as Part I (GMP requirements for medicinal products), Part II (GMP requirements for active pharmaceutical ingredients, aligned with ICH Q7), and a series of Annexes addressing specific manufacturing situations: for example Annex 1 (manufacture of sterile medicinal products), Annex 2 (biological substances), Annex 11 (computerised systems), Annex 13 (investigational medicinal products), and Annex 15 (qualification and validation).
+
+TOPIC: Using PIC/S as a baseline
+Because many national authorities (including TGA and SAHPRA) have adopted the PIC/S GMP Guide directly as their own manufacturing principles, firms preparing for inspection by any PIC/S member authority benefit from mapping their quality system documentation to the Guide's Part/Annex structure: Part I chapters cover the core quality system, personnel, premises, equipment, documentation, production, QC, outsourcing, complaints/recalls, and self-inspection; relevant Annexes apply on top for the specific product/process types involved.
+
+TOPIC: How annexes apply by manufacturing type
+A sterile manufacturing site must additionally meet Annex 1 (updated in 2022 with substantially expanded contamination control strategy expectations), while a non-sterile solid-dose manufacturer would not. Any site using computerised systems in GMP-relevant processes falls under Annex 11 regardless of product type. Sites conducting clinical trial supply manufacturing additionally fall under Annex 13.
+
+TOPIC: Mapping SOPs to PIC/S chapters
+A practical preparation approach is to build a cross-reference table listing each PIC/S Part I chapter and relevant Annex alongside the firm's own SOPs and records that demonstrate compliance with it, making gaps visible before an inspector finds them, and giving inspection hosts a ready reference to point inspectors toward supporting evidence during the inspection.
+
+TOPIC: Relationship to national inspections
+A PIC/S member authority's inspection outcome can sometimes be relied upon by other member authorities under mutual reliance arrangements, reducing duplicate inspections, though this depends on the specific authorities and products involved and is not automatic or universal.
