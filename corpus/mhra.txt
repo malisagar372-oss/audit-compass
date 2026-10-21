@@ -1,0 +1,21 @@
+[REGULATOR: UK MHRA]
+[SOURCE: MHRA GMP guidance (Orange Guide); MHRA 'GXP' Data Integrity Guidance and Definitions (2018); UK manufacturing licence inspection framework]
+[VERIFY AT: https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency]
+
+TOPIC: Legal framework
+UK medicine manufacturers must hold a Manufacturer's/Importer's Authorisation (MIA) and comply with UK GMP, which closely mirrors EU GMP (EudraLex Volume 4) following the UK's departure from the EU, with MHRA as the inspecting authority. The "Orange Guide" (Rules and Guidance for Pharmaceutical Manufacturers and Distributors) is the commonly used reference compiling UK GMP expectations.
+
+TOPIC: Inspection deficiency grading
+MHRA grades inspection findings as Critical, Major, or Other (minor). A Critical deficiency is one that has produced, or leads to significant risk of, a product harmful to the patient, or involves falsification/fraud. A Major deficiency is a significant departure from GMP, or a combination of several Other deficiencies indicating a systemic failure. Other deficiencies do not meet the Critical or Major definition but represent a departure from good practice. Inspection outcomes and the resulting licence status depend on the number and grading of deficiencies found.
+
+TOPIC: Data integrity guidance
+MHRA's 2018 'GXP' Data Integrity Guidance and Definitions is widely referenced, including outside the UK, for its practical data governance expectations: data integrity risk should be assessed and managed proportionately to risk and the stage of the product lifecycle; audit trails for critical systems should be configured, reviewed, and not able to be disabled by routine users; and organisations should have a data governance system owned at a senior level, not left solely to IT or QC.
+
+TOPIC: Computerised systems validation
+Inspectors expect computerised systems used in GMP-regulated activities (e.g., LIMS, MES, chromatography data systems) to be validated proportionate to their risk and complexity, with access controls that enforce individual accountability (no shared logins), and audit trails that are routinely reviewed as part of batch release or periodic review, not just available if requested.
+
+TOPIC: Common areas of focus
+Data integrity governance and audit trail review, quality culture and whether staff feel able to report problems without fear of repercussion, effectiveness of the CAPA system (not just its existence), and supply chain oversight including outsourced activities and contract givers'/acceptors' responsibilities.
+
+TOPIC: Preparing for an MHRA inspection
+Firms should have a current site master file, demonstrate a functioning quality risk management process actually used in decision-making (not a paperwork exercise), be ready to show how data integrity risk was assessed for key systems, and ensure senior management can articulate ownership of the quality culture, since MHRA inspectors frequently interview staff at multiple levels, not only QA management.
