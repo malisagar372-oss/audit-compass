@@ -38,7 +38,7 @@ INDEX_PATH = os.path.join(os.path.dirname(__file__), "index.json")
 # Free, open model served via Groq's API (genuinely free tier, no credit
 # card required). No cost to visitors; the app owner's free Groq account
 # funds inference.
-GENERATION_MODEL = "llama-3.1-8b-instant"
+GENERATION_MODEL = "openai/gpt-oss-20b"
 
 REGULATORS = [
     ("US FDA", "usfda"),
