@@ -1,0 +1,21 @@
+[REGULATOR: Australia TGA]
+[SOURCE: Therapeutic Goods Administration manufacturing principles; PIC/S GMP Guide (adopted by TGA as the manufacturing principles for medicines); TGA GMP clearance scheme]
+[VERIFY AT: https://www.tga.gov.au/products/medicines/manufacturing]
+
+TOPIC: Legal framework
+TGA requires Australian medicine manufacturers to hold a manufacturing licence and to comply with the "manufacturing principles," which TGA has adopted as the PIC/S (Pharmaceutical Inspection Co-operation Scheme) GMP Guide, including its annexes for special product types (e.g., sterile products, biological products). Overseas manufacturers supplying the Australian market generally need TGA GMP clearance, which can be satisfied through recognition of inspections by other PIC/S member authorities under mutual recognition arrangements, or through a direct TGA inspection.
+
+TOPIC: Two distinct processes
+Australian-licensed manufacturers are inspected directly by TGA on a routine cycle to maintain their manufacturing licence. Overseas manufacturers instead go through the GMP clearance process, which can rely on evidence of compliance (such as a current GMP certificate from a recognised authority) rather than always requiring a fresh on-site TGA inspection, depending on the country and arrangement in place.
+
+TOPIC: PIC/S GMP Guide structure
+The PIC/S GMP Guide is organised into Part I (GMP for medicinal products), Part II (GMP for active pharmaceutical ingredients), and a set of Annexes covering specific manufacturing situations (e.g., Annex 1 sterile manufacture, Annex 11 computerised systems, Annex 15 qualification and validation). Because TGA has adopted this guide, firms preparing for a TGA inspection benefit from mapping their quality system documentation directly to the relevant Part/Annex structure.
+
+TOPIC: What inspectors typically examine
+Quality management system effectiveness (not just existence of SOPs), premises and equipment suitability for the products made, documentation practices and data integrity, production and in-process controls, quality control laboratory operations, complaint handling and recall procedures, and self-inspection (internal audit) programs.
+
+TOPIC: Common deficiency themes
+Deficiencies commonly flagged in PIC/S-aligned inspections include inadequate investigation of deviations and out-of-specification results, insufficient validation of computerised systems against Annex 11 expectations, gaps in data integrity controls (audit trail review, access control), and quality risk management that is documented but not genuinely used to drive decisions.
+
+TOPIC: Preparing for a TGA/PIC/S inspection
+Firms are expected to have an up-to-date site master file, current validation status for critical equipment and processes, a functioning self-inspection (internal audit) program with evidence that findings are followed up, and personnel who can demonstrate (not just describe) that procedures are followed as written.
